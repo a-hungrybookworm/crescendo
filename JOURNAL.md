@@ -48,12 +48,14 @@ I used all the pins on my esp32-s3, and my final schematic looks like this-
 
 After assigning footprints, I updated the PCB from the schematic and began to make my rectangular capacitive touch keys. I've decided to make them 2x5 cm - big enough to play them, but small enough that the PCB size doesn't increase drastically.
 
-I made the traces as direct as possible, and routed them. I used the front copper layer for all the traces except the ground ones, as  I found that I had enough space for all of them. Then, I added doodles to the front and back.
+I made the traces as direct as possible, and routed them. I used the front copper layer for all the traces except the ground ones, as  I found that I had enough space for all of them.
+
+I then added doodles to the front and the back.
 
 This is my current PCB-
 ![PCB_Front](https://halflife.hackclub-assets.com/sessions/GCeaAMEwysPJCYY5Y3iNPYstz2oSVP5D/6aa5e69052f96f651646956931a36a81257f29c9112d212d4c94896cd8b7f05d.png)
 
-And its backside
+And its backside-
 ![PCB_Back](https://halflife.hackclub-assets.com/sessions/GCeaAMEwysPJCYY5Y3iNPYstz2oSVP5D/7c2ff2df67a20922fdda3acb00f76b9dbfa15024675bff892ffd602f72989c03.png)
 
 Finally, I added the 3D models - from the MIDI repo, and the Week 1 Starbie care package.
@@ -63,5 +65,7 @@ Finally, I added the 3D models - from the MIDI repo, and the Week 1 Starbie care
 
 ![3D_Back](https://halflife.hackclub-assets.com/sessions/GCeaAMEwysPJCYY5Y3iNPYstz2oSVP5D/90955b29ef3c499768dcb03f5aeab2ee410ba3ba219df09f4a99489dba2d49aa.png)
 ^ And the back
+
+So this session, I finished the Crescendo's PCB!
 
 [Timelapse](https://lookout.hackclub.com/api/media/ad9be0d3-7cb2-4120-8014-1677e6724746/video.mp4)
