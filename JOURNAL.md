@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-25 – Checked prices for components - and decided which ones to use on the Crescendo. The  Waveshare ESP takes up like two-thirds of the entire cost (delivery $13!) - but I need all the I/O pins, so I'll ha](#2026-10-25-checked-prices-for-components---and-decided-which)
-2. [2026-10-25 – Work session](#2026-10-25-work-session)
+2. [2026-10-25 – I finished the PCB!](#2026-10-25-i-finished-the-pcb)
 
 ## Design
 
@@ -32,8 +32,36 @@ The only thing I'm worried about now is the PCB - I don't know how much that wil
 
 [Timelapse](https://lookout.hackclub.com/api/media/1cd7c4c5-82f8-4b4f-80fa-1dae83c3e90f/video.mp4)
 
-### 2026-10-25 – Work session
+### 2026-10-25 – I finished the PCB!
 
 **5.48h**
+
+I finished the PCB!
+
+I first figured out how to install all the libraries, and then connected the components on the schematic. Initially, I didn't understand how the capacitive touch keys worked, so I added actual touch sensors to my BOM and my schematic - I was so happy when I could remove them! (- $3)
+
+![Schematic_Initial](https://halflife.hackclub-assets.com/sessions/GCeaAMEwysPJCYY5Y3iNPYstz2oSVP5D/9767a8e7234c842a3e5da6db817b0a9a40159527fe4bf587d5a4d28173d70d5f.png)
+^ My initial schematic with 7 touch sensors
+
+I used all the pins on my esp32-s3, and my final schematic looks like this-
+![Schematic_Final](https://halflife.hackclub-assets.com/sessions/GCeaAMEwysPJCYY5Y3iNPYstz2oSVP5D/087bde03c69eaf87923fbb53dd76950eef567bf3a00eb3a1771360b98014f9d9.png)
+
+After assigning footprints, I updated the PCB from the schematic and began to make my rectangular capacitive touch keys. I've decided to make them 2x5 cm - big enough to play them, but small enough that the PCB size doesn't increase drastically.
+
+I made the traces as direct as possible, and routed them. I used the front copper layer for all the traces except the ground ones, as  I found that I had enough space for all of them. Then, I added doodles to the front and back.
+
+This is my current PCB-
+![PCB_Front](https://halflife.hackclub-assets.com/sessions/GCeaAMEwysPJCYY5Y3iNPYstz2oSVP5D/6aa5e69052f96f651646956931a36a81257f29c9112d212d4c94896cd8b7f05d.png)
+
+And its backside
+![PCB_Back](https://halflife.hackclub-assets.com/sessions/GCeaAMEwysPJCYY5Y3iNPYstz2oSVP5D/7c2ff2df67a20922fdda3acb00f76b9dbfa15024675bff892ffd602f72989c03.png)
+
+Finally, I added the 3D models - from the MIDI repo, and the Week 1 Starbie care package.
+
+![3D_Front](https://halflife.hackclub-assets.com/sessions/GCeaAMEwysPJCYY5Y3iNPYstz2oSVP5D/35777f014485e26a9da6ed3f78f788d47be212345f80b6fc96b7feced681db6a.png)
+^ The front side
+
+![3D_Back](https://halflife.hackclub-assets.com/sessions/GCeaAMEwysPJCYY5Y3iNPYstz2oSVP5D/90955b29ef3c499768dcb03f5aeab2ee410ba3ba219df09f4a99489dba2d49aa.png)
+^ And the back
 
 [Timelapse](https://lookout.hackclub.com/api/media/ad9be0d3-7cb2-4120-8014-1677e6724746/video.mp4)
