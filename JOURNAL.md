@@ -14,15 +14,17 @@
 
 ## Contents
 
-1. [2026-10-25 – Checked prices for components - and decided which ones to use on the Crescendo. The  Waveshare ESP takes up like two-thirds of the entire cost (delivery $13!) - but I need all the I/O pins, so I'll ha](#2026-10-25-checked-prices-for-components---and-decided-which)
+1. [2026-10-25 – BOM & Components](#2026-10-25-bom-components)
 2. [2026-10-25 – I finished the PCB!](#2026-10-25-i-finished-the-pcb)
 3. [2026-10-25 – Worked on the readme, and checked PCB prices - my board is extremely costly cause its >100mm long! I'll have to figure out a way to cut down on costs.](#2026-10-25-worked-on-the-readme-and-checked-pcb-prices---my-)
 
 ## Design
 
-### 2026-10-25 – Checked prices for components - and decided which ones to use on the Crescendo. The  Waveshare ESP takes up like two-thirds of the entire cost (delivery $13!) - but I need all the I/O pins, so I'll ha
+### 2026-10-25 – BOM & Components
 
 **0.33h**
+
+BOM & Components
 
 Checked prices for components - and decided which ones to use on the Crescendo. The  Waveshare ESP takes up like two-thirds of the entire cost (delivery $13!) - but I need all the I/O pins, so I'll have to use it. The other components I'm gonna use are low-cost - like two rotary encoders and seven capacitive touch keys, and I already have the kailh switches, so that reduces costs a bit.
 
