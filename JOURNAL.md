@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-25 – BOM & Components](#2026-10-25-bom-components)
-2. [2026-10-25 – I finished the PCB!](#2026-10-25-i-finished-the-pcb)
+2. [2026-10-25 – PCB Design](#2026-10-25-pcb-design)
 3. [2026-10-25 – Worked on the readme, and checked PCB prices - my board is extremely costly cause its >100mm long! I'll have to figure out a way to cut down on costs.](#2026-10-25-worked-on-the-readme-and-checked-pcb-prices---my-)
 
 ## Design
@@ -35,9 +35,11 @@ The only thing I'm worried about now is the PCB - I don't know how much that wil
 
 [Timelapse](https://lookout.hackclub.com/api/media/1cd7c4c5-82f8-4b4f-80fa-1dae83c3e90f/video.mp4)
 
-### 2026-10-25 – I finished the PCB!
+### 2026-10-25 – PCB Design
 
 **5.48h**
+
+PCB Design
 
 I finished the PCB!
 
