@@ -14,15 +14,15 @@
 
 ## Contents
 
-1. [2026-10-25 – Checked prices for components - and decided which ones to use on the Crescendo. The  Waveshare ESP takes up like two-thirds of the entire cost (delivery $14!) - but I need all the I/O pins, so I'll ha](#2026-10-25-checked-prices-for-components---and-decided-which)
+1. [2026-10-25 – Checked prices for components - and decided which ones to use on the Crescendo. The  Waveshare ESP takes up like two-thirds of the entire cost (delivery $13!) - but I need all the I/O pins, so I'll ha](#2026-10-25-checked-prices-for-components---and-decided-which)
 
 ## Design
 
-### 2026-10-25 – Checked prices for components - and decided which ones to use on the Crescendo. The  Waveshare ESP takes up like two-thirds of the entire cost (delivery $14!) - but I need all the I/O pins, so I'll ha
+### 2026-10-25 – Checked prices for components - and decided which ones to use on the Crescendo. The  Waveshare ESP takes up like two-thirds of the entire cost (delivery $13!) - but I need all the I/O pins, so I'll ha
 
 **0.33h**
 
-Checked prices for components - and decided which ones to use on the Crescendo. The  Waveshare ESP takes up like two-thirds of the entire cost (delivery $14!) - but I need all the I/O pins, so I'll have to use it. The other components I'm gonna use are low-cost - like two rotary encoders and seven capacitive touch keys, and I already have the kailh switches, so that reduces costs a bit.
+Checked prices for components - and decided which ones to use on the Crescendo. The  Waveshare ESP takes up like two-thirds of the entire cost (delivery $13!) - but I need all the I/O pins, so I'll have to use it. The other components I'm gonna use are low-cost - like two rotary encoders and seven capacitive touch keys, and I already have the kailh switches, so that reduces costs a bit.
 
 ![Screenshot 2026-10-25 at 1.15.33 PM](https://halflife.hackclub-assets.com/sessions/GCeaAMEwysPJCYY5Y3iNPYstz2oSVP5D/a731b99b8f5719ecf45641ed792c6af63d24c04ea6eb18cd33ddd900a02d467b.png)
 ^ Current BOM
