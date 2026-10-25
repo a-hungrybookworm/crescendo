@@ -16,7 +16,7 @@
 
 1. [2026-10-25 – Checked prices for components - and decided which ones to use on the Crescendo. The  Waveshare ESP takes up like two-thirds of the entire cost (delivery $13!) - but I need all the I/O pins, so I'll ha](#2026-10-25-checked-prices-for-components---and-decided-which)
 2. [2026-10-25 – I finished the PCB!](#2026-10-25-i-finished-the-pcb)
-3. [2026-10-25 – Work session](#2026-10-25-work-session)
+3. [2026-10-25 – Worked on the readme, and checked PCB prices - my board is extremely costly cause its >100mm long! I'll have to figure out a way to cut down on costs.](#2026-10-25-worked-on-the-readme-and-checked-pcb-prices---my-)
 
 ## Design
 
@@ -71,8 +71,10 @@ So this session, I finished the Crescendo's PCB!
 
 [Timelapse](https://lookout.hackclub.com/api/media/ad9be0d3-7cb2-4120-8014-1677e6724746/video.mp4)
 
-### 2026-10-25 – Work session
+### 2026-10-25 – Worked on the readme, and checked PCB prices - my board is extremely costly cause its >100mm long! I'll have to figure out a way to cut down on costs.
 
 **0.55h**
+
+Worked on the readme, and checked PCB prices - my board is extremely costly cause its >100mm long! I'll have to figure out a way to cut down on costs.
 
 [Timelapse](https://lookout.hackclub.com/api/media/55f004a3-b245-452b-9723-da381cb4ea15/video.mp4)
