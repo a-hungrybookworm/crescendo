@@ -16,7 +16,7 @@
 
 1. [2026-10-25 – BOM & Components](#2026-10-25-bom-components)
 2. [2026-10-25 – PCB Design](#2026-10-25-pcb-design)
-3. [2026-10-25 – Worked on the readme, and checked PCB prices - my board is extremely costly cause its >100mm long! I'll have to figure out a way to cut down on costs.](#2026-10-25-worked-on-the-readme-and-checked-pcb-prices---my-)
+3. [2026-10-25 – Readme & PCB Quotes](#2026-10-25-readme-pcb-quotes)
 
 ## Design
 
@@ -75,9 +75,11 @@ So this session, I finished the Crescendo's PCB!
 
 [Timelapse](https://lookout.hackclub.com/api/media/ad9be0d3-7cb2-4120-8014-1677e6724746/video.mp4)
 
-### 2026-10-25 – Worked on the readme, and checked PCB prices - my board is extremely costly cause its >100mm long! I'll have to figure out a way to cut down on costs.
+### 2026-10-25 – Readme & PCB Quotes
 
 **0.55h**
+
+Readme & PCB Quotes
 
 Worked on the readme, and checked PCB prices - my board is extremely costly cause its >100mm long! I'll have to figure out a way to cut down on costs.
 
