@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/cmvesmloi0a1j01rc2j2nbdyu)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A custom MIDI keyboard
+> The crescendo is a custom MIDI keyboard capable of producing music from several different instruments and recording it as a MIDI file.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |

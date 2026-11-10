@@ -1,9 +1,5 @@
-Item,Qty,Supplier,Cost/item,Total Cost,Link
+Item,Qty,Supplier,Cost/item,Total Cost,link
 WaveESP32-S3 Mini Development Board,1,Waveshare,$5.49,$5.49,https://www.waveshare.com/esp32-s3-zero.htm?sku=25081
-EC11 Rotary Encoder Module,2,Robu,$1.05,$2.10,https://robu.in/product/EC11%20Rotary%20Encoder%20Module%20with%20Knob%20Cap%20for%20Development%20Boards/
-Kailh Switches (pack of 10),1,Meckeys,$1.45,$1.45,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-switch-pack/
-Blank DSA Keycaps (Set of 5),1,Meckeys,$1.03,$1.03,https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-keycaps-1u/
+EC11 Rotary Encoder Module,2,Robocraze,$0.74,$1.48,https://robocraze.com/products/ec11-15mm-rotary-encoder-module?_pos=1&_sid=6ba8a4a86&_ss=r
 PCB,1,Robu,$9.59,$9.59,https://robu.in/product/online-pcb-manufacturing-service/
-Parts subtotal,,,,$19.66,
-Estimated total shipping,,,,$14.04,
-Grand Total,,,,$33.70,
+Estimated total shipping,1,,,$14.04,
