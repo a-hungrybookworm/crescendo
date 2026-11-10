@@ -1,6 +1,7 @@
 # Crescendo
 <img width="800" height="600" alt="front_3d" src="https://github.com/user-attachments/assets/71c44107-5d24-4251-a24d-dee8d8b28d0c" />
 
+
 The crescendo is a custom MIDI keyboard capable of producing music from several different instruments and recording it as a MIDI file.
 
 # Features
@@ -24,7 +25,7 @@ This project was built using the following components:
 * A custom PCB!
 
 # Building it!
-Drawing inspiration from the [MIDI-Keypad](https://github.com/KaiPereira/MIDI-Keypad/tree/master), I decided to make a minimal, budget-friendly version of this project - featuring 7 capacitive touch keys for each of the natural notes, a rotary encoder for volume adjustment, another for transpose, and Kailh switches to play sounds of different instruments & to record your music. Another Kailh switch turns the metronome on and off, and if you press the switch on the first rotary encoder, you can use it to change the tempo. 
+Drawing inspiration from the [MIDI-Keypad](https://github.com/KaiPereira/MIDI-Keypad/tree/master), I decided to make a minimal, budget-friendly version of this project - featuring 7 capacitive touch keys for each of the natural notes, volume, transpose, metronome & tempo, sounds of different instruments, and a recording feature. I have been playing the piano for six years now, so even if I don't know enough about PCB design, I do know a bit about music. 
 
 Initially, I searched up part prices and decided which ones I could use - I had to cut down on costs as I had a costly microcontroller.
 
@@ -36,7 +37,7 @@ Then I figured out how to install all the footprint libraries, and connected the
 I used all the pins on my esp32-s3, and my final schematic looks like this-
 ![Schematic_Final](https://halflife.hackclub-assets.com/sessions/GCeaAMEwysPJCYY5Y3iNPYstz2oSVP5D/087bde03c69eaf87923fbb53dd76950eef567bf3a00eb3a1771360b98014f9d9.png)
 
-After assigning footprints, I updated the PCB from the schematic and began to make a footprint for my rectangular capacitive touch keys. I've decided to make them 1.36x4 cm - large enough to play thaem, but small enough that the PCB size remains under 100x100mm, to cut costs. I made the traces as direct as possible and then routed them, using the front copper layer for all traces except the ground ones.
+After assigning footprints, I updated the PCB from the schematic and began to make a footprint for my rectangular capacitive touch keys. I've decided to make them 1.36 x 4cm - big enough to play them, but small enough that the PCB size remains under 100 x 100mm. I made the traces as direct as possible, and routed them. I used the front copper layer for all the traces except the ground ones, as  I found that I had enough space for all of them. 
 
 I then added doodles to the front and the back, and finally, I added the 3D models from the MIDI repo and the Week 1 Starbie care package - finishing my PCB design!
 
