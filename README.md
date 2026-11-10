@@ -42,7 +42,7 @@ After assigning footprints, I updated the PCB from the schematic and began to ma
 I then added doodles to the front and the back, and finally, I added the 3D models from the MIDI repo and the Week 1 Starbie care package - finishing my PCB design!
 
 # What I learnt 
-This was one of the first hardware projects I've done, and the first music-realted project I've done. I learnt a lot, including how to - 
+This was one of the first hardware projects I've done, and the first music-related project I've done. I learnt a lot, including how to - 
 - add footprint & symbol libraries in KiCAD, and add 3D models
 - connect rotary encoders in the schematic
 - add capacitive touch keys in KiCAD, with the Waveshare ESP32-S3
