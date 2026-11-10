@@ -41,9 +41,7 @@ After assigning footprints, I updated the PCB from the schematic and began to ma
 
 I then added doodles to the front and the back, and finally, I added the 3D models from the MIDI repo and the Week 1 Starbie care package - finishing my PCB design!
 
-# Firmware (EDIT)
-
-# What I learnt (EDIT)
+# What I learnt 
 This was one of the first hardware projects I've done, and the first music-realted project I've done. I learnt a lot, including how to - 
 - add footprint & symbol libraries in KiCAD, and add 3D models
 - connect rotary encoders in the schematic
@@ -52,20 +50,18 @@ This was one of the first hardware projects I've done, and the first music-realt
 - work with MIDI keyboards
 - ensure PCBs remain under 100x100mm >_<
 
-As soon as I finish the firmware - I will update this column >_<.
-
 # BOM 
 
 | Item | Qty | Supplier | Cost/item | Total Cost | Link |
 |------|-----|----------|-----------|------------|------|
 | WaveESP32-S3 Mini Development Board | 1 | Waveshare | $5.49 | $5.49 | [ESP32-S3](https://www.waveshare.com/esp32-s3-zero.htm?sku=25081) |
-| EC11 Rotary Encoder Module | 2 | Robu | $1.05 | $2.10 | [EC11](https://robu.in/product/EC11%20Rotary%20Encoder%20Module%20with%20Knob%20Cap%20for%20Development%20Boards/) |
+| EC11 Rotary Encoder Module | 2 | Robocraze | $0.74 | $1.48 | [EC11](https://robocraze.com/products/ec11-15mm-rotary-encoder-module?_pos=1&_sid=6ba8a4a86&_ss=r) |
 | Kailh Switches (pack of 10) | 1 | Meckeys | $1.45 | $1.45 | [Kailh Switches](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-switch-pack/) |
 | Blank DSA Keycaps (Set of 5) | 1 | Meckeys | $1.03 | $1.03 | [DSA Keycaps](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-keycaps-1u/) |
 | PCB | 1 | Robu | $9.59 | $9.59 | [PCB](https://robu.in/product/online-pcb-manufacturing-service/) |
-| **Parts subtotal** | | | | **$19.66** | |
+| **Parts subtotal** | | | | **$19.04** | |
 | **Estimated total shipping** | | | | **$14.04** | |
-| **Grand Total** | | | | **$33.70** | |
+| **Grand Total** | | | | **$33.08** | |
 
 # Images and Renders 
 
